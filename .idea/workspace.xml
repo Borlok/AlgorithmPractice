@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ec17f40-1976-4c0c-96bd-022efbd6476e" name="Default Changelist" comment="" />
+    <list default="true" id="0ec17f40-1976-4c0c-96bd-022efbd6476e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/borlok/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/borlok/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/borlok/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/borlok/sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/borlok/sorting/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/borlok/sorting/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/borlok/sorting/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/borlok/sorting/SelectSort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +31,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1oqkD1SgISKpuoKCcpDnf4wwecD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -74,6 +86,7 @@
       <workItem from="1614884426572" duration="549000" />
       <workItem from="1615364100867" duration="932000" />
       <workItem from="1615448199858" duration="53000" />
+      <workItem from="1615569223855" duration="1605000" />
     </task>
     <servers />
   </component>
@@ -85,26 +98,34 @@
       <screen x="0" y="50" width="1920" height="970" />
     </state>
     <state x="436" y="114" width="1171" height="839" key="#Project_Structure/0.50.1920.970@0.50.1920.970" timestamp="1614023388980" />
+    <state x="716" y="191" width="468" height="702" key="#com.intellij.ide.util.MemberChooser" timestamp="1615569268930">
+      <screen x="0" y="60" width="1920" height="960" />
+    </state>
+    <state x="716" y="191" width="468" height="702" key="#com.intellij.ide.util.MemberChooser/0.60.1920.960@0.60.1920.960" timestamp="1615569268930" />
     <state x="653" y="235" key="FileChooserDialogImpl" timestamp="1614105709226">
       <screen x="0" y="50" width="1920" height="970" />
     </state>
     <state x="653" y="235" key="FileChooserDialogImpl/0.50.1920.970@0.50.1920.970" timestamp="1614105709226" />
-    <state width="1852" height="231" key="GridCell.Tab.0.bottom" timestamp="1614884975074">
-      <screen x="0" y="50" width="1920" height="970" />
+    <state width="1842" height="227" key="GridCell.Tab.0.bottom" timestamp="1615570906360">
+      <screen x="0" y="60" width="1920" height="960" />
     </state>
     <state width="1852" height="231" key="GridCell.Tab.0.bottom/0.50.1920.970@0.50.1920.970" timestamp="1614884975074" />
-    <state width="1852" height="231" key="GridCell.Tab.0.center" timestamp="1614884975071">
-      <screen x="0" y="50" width="1920" height="970" />
+    <state width="1842" height="227" key="GridCell.Tab.0.bottom/0.60.1920.960@0.60.1920.960" timestamp="1615570906360" />
+    <state width="1842" height="227" key="GridCell.Tab.0.center" timestamp="1615570906360">
+      <screen x="0" y="60" width="1920" height="960" />
     </state>
     <state width="1852" height="231" key="GridCell.Tab.0.center/0.50.1920.970@0.50.1920.970" timestamp="1614884975071" />
-    <state width="1852" height="231" key="GridCell.Tab.0.left" timestamp="1614884975070">
-      <screen x="0" y="50" width="1920" height="970" />
+    <state width="1842" height="227" key="GridCell.Tab.0.center/0.60.1920.960@0.60.1920.960" timestamp="1615570906360" />
+    <state width="1842" height="227" key="GridCell.Tab.0.left" timestamp="1615570906359">
+      <screen x="0" y="60" width="1920" height="960" />
     </state>
     <state width="1852" height="231" key="GridCell.Tab.0.left/0.50.1920.970@0.50.1920.970" timestamp="1614884975070" />
-    <state width="1852" height="231" key="GridCell.Tab.0.right" timestamp="1614884975073">
-      <screen x="0" y="50" width="1920" height="970" />
+    <state width="1842" height="227" key="GridCell.Tab.0.left/0.60.1920.960@0.60.1920.960" timestamp="1615570906359" />
+    <state width="1842" height="227" key="GridCell.Tab.0.right" timestamp="1615570906360">
+      <screen x="0" y="60" width="1920" height="960" />
     </state>
     <state width="1852" height="231" key="GridCell.Tab.0.right/0.50.1920.970@0.50.1920.970" timestamp="1614884975073" />
+    <state width="1842" height="227" key="GridCell.Tab.0.right/0.60.1920.960@0.60.1920.960" timestamp="1615570906360" />
     <state width="1852" height="288" key="GridCell.Tab.1.bottom" timestamp="1614027556787">
       <screen x="0" y="50" width="1920" height="970" />
     </state>
