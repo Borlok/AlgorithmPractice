@@ -1,4 +1,4 @@
-package com.borlok.sorting;
+package com.borlok.hardsorting;
 
 import java.util.Arrays;
 
@@ -17,7 +17,7 @@ public class FastSort {
         long stop = System.nanoTime();
         long result = stop - start;
         System.out.println("Длинна массива: " + arr.length + " Затраченное время(наносек): " + result);
-        System.out.println(Arrays.toString(arr));
+//        System.out.println(Arrays.toString(arr));
         return result;
     }
 

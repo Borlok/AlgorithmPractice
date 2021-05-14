@@ -5,8 +5,14 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/borlok/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/borlok/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/borlok/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/borlok/sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/borlok/sorting/FastSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/borlok/hardsorting/FastSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/borlok/sorting/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/borlok/sorting/InsertSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/borlok/sorting/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/borlok/sorting/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/borlok/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/borlok/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/borlok/sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/borlok/sorting/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/borlok/sorting/FastSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/borlok/sorting/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/borlok/sorting/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/borlok/sorting/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/borlok/sorting/SelectSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +92,10 @@
       <workItem from="1614884426572" duration="549000" />
       <workItem from="1615364100867" duration="932000" />
       <workItem from="1615448199858" duration="53000" />
-      <workItem from="1615569223855" duration="1605000" />
+      <workItem from="1615569223855" duration="2564000" />
+      <workItem from="1616215679044" duration="9549000" />
+      <workItem from="1616269177851" duration="871000" />
+      <workItem from="1616302415794" duration="83000" />
     </task>
     <servers />
   </component>
@@ -106,26 +115,26 @@
       <screen x="0" y="50" width="1920" height="970" />
     </state>
     <state x="653" y="235" key="FileChooserDialogImpl/0.50.1920.970@0.50.1920.970" timestamp="1614105709226" />
-    <state width="1842" height="227" key="GridCell.Tab.0.bottom" timestamp="1615570906360">
+    <state width="1852" height="227" key="GridCell.Tab.0.bottom" timestamp="1616230049166">
       <screen x="0" y="60" width="1920" height="960" />
     </state>
     <state width="1852" height="231" key="GridCell.Tab.0.bottom/0.50.1920.970@0.50.1920.970" timestamp="1614884975074" />
-    <state width="1842" height="227" key="GridCell.Tab.0.bottom/0.60.1920.960@0.60.1920.960" timestamp="1615570906360" />
-    <state width="1842" height="227" key="GridCell.Tab.0.center" timestamp="1615570906360">
+    <state width="1852" height="227" key="GridCell.Tab.0.bottom/0.60.1920.960@0.60.1920.960" timestamp="1616230049166" />
+    <state width="1852" height="227" key="GridCell.Tab.0.center" timestamp="1616230049164">
       <screen x="0" y="60" width="1920" height="960" />
     </state>
     <state width="1852" height="231" key="GridCell.Tab.0.center/0.50.1920.970@0.50.1920.970" timestamp="1614884975071" />
-    <state width="1842" height="227" key="GridCell.Tab.0.center/0.60.1920.960@0.60.1920.960" timestamp="1615570906360" />
-    <state width="1842" height="227" key="GridCell.Tab.0.left" timestamp="1615570906359">
+    <state width="1852" height="227" key="GridCell.Tab.0.center/0.60.1920.960@0.60.1920.960" timestamp="1616230049164" />
+    <state width="1852" height="227" key="GridCell.Tab.0.left" timestamp="1616230049160">
       <screen x="0" y="60" width="1920" height="960" />
     </state>
     <state width="1852" height="231" key="GridCell.Tab.0.left/0.50.1920.970@0.50.1920.970" timestamp="1614884975070" />
-    <state width="1842" height="227" key="GridCell.Tab.0.left/0.60.1920.960@0.60.1920.960" timestamp="1615570906359" />
-    <state width="1842" height="227" key="GridCell.Tab.0.right" timestamp="1615570906360">
+    <state width="1852" height="227" key="GridCell.Tab.0.left/0.60.1920.960@0.60.1920.960" timestamp="1616230049160" />
+    <state width="1852" height="227" key="GridCell.Tab.0.right" timestamp="1616230049165">
       <screen x="0" y="60" width="1920" height="960" />
     </state>
     <state width="1852" height="231" key="GridCell.Tab.0.right/0.50.1920.970@0.50.1920.970" timestamp="1614884975073" />
-    <state width="1842" height="227" key="GridCell.Tab.0.right/0.60.1920.960@0.60.1920.960" timestamp="1615570906360" />
+    <state width="1852" height="227" key="GridCell.Tab.0.right/0.60.1920.960@0.60.1920.960" timestamp="1616230049165" />
     <state width="1852" height="288" key="GridCell.Tab.1.bottom" timestamp="1614027556787">
       <screen x="0" y="50" width="1920" height="970" />
     </state>
@@ -146,5 +155,13 @@
       <screen x="0" y="50" width="1920" height="970" />
     </state>
     <state x="295" y="81" width="1329" height="910" key="SettingsEditor/0.50.1920.970@0.50.1920.970" timestamp="1614024307537" />
+    <state x="530" y="242" key="run.anything.popup" timestamp="1616215900625">
+      <screen x="0" y="60" width="1920" height="960" />
+    </state>
+    <state x="530" y="242" key="run.anything.popup/0.60.1920.960@0.60.1920.960" timestamp="1616215900625" />
+    <state x="491" y="59" width="915" height="1034" key="search.everywhere.popup" timestamp="1616219638746">
+      <screen x="0" y="60" width="1920" height="960" />
+    </state>
+    <state x="491" y="59" width="915" height="1034" key="search.everywhere.popup/0.60.1920.960@0.60.1920.960" timestamp="1616219638746" />
   </component>
 </project>

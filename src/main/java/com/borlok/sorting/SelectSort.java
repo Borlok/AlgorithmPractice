@@ -24,7 +24,7 @@ public class SelectSort {
         long stop = System.nanoTime();
         long result = stop - start;
         System.out.println("Сравнений для " + arr.length + " элементов: " + compose + " Затраченное время(наносек): " + result);
-        System.out.println(Arrays.toString(arr));
+//        System.out.println(Arrays.toString(arr));
         return result;
     }
 
